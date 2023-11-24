@@ -1,15 +1,15 @@
-### Olá! Eu sou o Leandro Carvalho👋
+# Olá! Eu sou o (Hi there! i'm :D) Leandro Carvalho👋
+🌐 Apaixonado por tecnologias web | 🌐 Enthusiastic about web technologies
 
+- 🚀 Sempre ansioso e aberto para aprender e explorar coisas novas! 🚀 Always eager to learn and explore new things!
 
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](url)
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](url)
+## Conecte-se Comigo | Let's Connect
+
+- 📫 Entre em contato comigo em | Reach me at [Leandroacarvalho227@gmail.com](mailto:Leandroacarvalho227@gmail.com)<br>
+- 🌐 Visite meu site pessoal | Visit my personal website:
 [![Cv-Online](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](url)
-
-![DevCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroCarvalho2022&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCarvalho2022)](https://github.com/LeandroCarvalho2022/github-readme-stats)
-
-## Tecnologias que uso no dia-a-dia
+<br>
+  <h1>Tecnologias Que Uso / My Toolbox</h1>
 
 <div style='display: inline_block'><br/>
   <img align="center" alt"HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,6 +19,10 @@
   <img align="center" alt"Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt"NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt"AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+</div> <br>
 
+![DevCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroCarvalho2022&show_icons=true&theme=tokyonight)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCarvalho2022)](https://github.com/LeandroCarvalho2022/github-readme-stats) <br>
+
+## Best regards! keep coding and sipping coffee! ☕️✨
 
