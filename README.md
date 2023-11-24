@@ -5,9 +5,8 @@
 
 ## Conecte-se Comigo | Let's Connect
 
-- 📫 Entre em contato comigo em | Reach me at [Leandroacarvalho227@gmail.com](mailto:Leandroacarvalho227@gmail.com)<br>
-- 🌐 Visite meu site pessoal | Visit my personal website:
-[![Cv-Online](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](url)
+<h3>- 📫 Entre em contato comigo em | Reach me at Leandroacarvalho227@gmail.com<br></h3>
+<h3>- 🌐 Visite meu site pessoal | Visit my personal website: 🌐 [yourwebsite.com](http://www.yourwebsite.com) </h3>
 <br>
   <h1>Tecnologias Que Uso / My Toolbox</h1>
 
