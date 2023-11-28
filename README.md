@@ -1,12 +1,11 @@
 # Olá! Eu sou o (Hi there! i'm :D) Leandro Carvalho👋
-🌐 Apaixonado por tecnologias web | 🌐 Enthusiastic about web technologies
+🌐 Se aventurando na tecnologia | 🌐 Venturing into Technology
 
 - 🚀 Sempre ansioso e aberto para aprender e explorar coisas novas! 🚀 Always eager to learn and explore new things!
 
 ## Conecte-se Comigo | Let's Connect
 
-<h3>- 📫 Entre em contato comigo em | Reach me at Leandroacarvalho227@gmail.com<br></h3>
-<h3>- 🌐 Visite meu site pessoal | Visit my personal website: 🌐 [yourwebsite.com](http://www.yourwebsite.com) </h3>
+<h3>- 📫 Entre em contato comigo em | Reach me at: Leandroacarvalho227@gmail.com<br></h3>
 <br>
   <h1>Tecnologias Que Uso / My Toolbox</h1>
 
