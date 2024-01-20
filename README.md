@@ -1,5 +1,5 @@
 # Olá! Eu sou o (Hi there! i'm :D) Leandro Carvalho👋
-🌐 Se aventurando na tecnologia | 🌐 Venturing into Technology
+🌐 Gosto de escrever uns codigin | 🌐 I like to write some codes
 
 - 🚀 Sempre ansioso e aberto para aprender e explorar coisas novas! 🚀 Always eager to learn and explore new things!
 
